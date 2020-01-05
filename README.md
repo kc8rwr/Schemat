@@ -3,11 +3,10 @@ An old DOS QuickBasic schematic design editor updated for QB64.
 
 What is it good for?
 
-Probably nothing at all.
-Well.. 
-- Maybe someone might use it to make really quick and simple schematic diagrams of small circuits for educational purposes.
-- Or maybe someone might place this on an old retro DOS computer for display. (If it ever works in DOS again).
-But most likely it isn't good for anything.
+-Probably nothing at all.
+-Maybe someone might use it to make really quick and simple schematic diagrams of small circuits for educational purposes.
+-Maybe someone might place this on an old retro DOS computer for display. (If it ever works in DOS again).
+-But most likely it isn't good for anything.
 
 Why am I doing this?
 
