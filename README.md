@@ -32,5 +32,6 @@ This program was influenced by examples from the book "Tandy Graphics and Sound 
 - The original used bsave and bload to save and load the schematic on the screen. This seems to work differently in QB64. Instead it now saves bitmaps as .bmp files which are more compatible with new software anyway.
 
 **DOS**
+
 QB64 does not target DOS. Due to changes made in the code to get it running under QB64 it probably does not build in QuickBasic anymore. I may at some point revisit this and set up some sort of build system which comments/uncomments different parts in order to allow building in QuickBasic again.
 
